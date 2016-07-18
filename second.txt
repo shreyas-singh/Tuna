@@ -1,5 +1,0 @@
-now i am adding 2nd text file !
-now another change
-and now itz gonna change ... so 
-lets see how git diff command gonna show it ... cheerz ;)
-
